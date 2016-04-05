@@ -7,14 +7,17 @@ Also included: some general computer science tools.
 
 - [General Machine Learning Courses](#general-machine-learning-courses)
 - [General Mathematics](#general-mathematics)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Health Informatics](#health-informatics)
+- [Social Informatics](#social-informatics)
+- [Big Data](#big-data)
 - [Deep Learning](#deep-learning)
 - [Numerical Methods](#numerical-methods)
 - [Robotics](#robotics)
 - [Information Retrieval](#information-retrieval)
 - [General Computer Science Tools](#general-computer-science-tools)
 
-# General Machine Learning Courses
-
+## General Machine Learning Courses
 - [10-601](http://www.cs.cmu.edu/~ninamf/courses/601sp15/) **Machine Learning** *Carnegie Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
 	- This course covers the theory and practical algorithms for machine learning from a variety of perspectives. It covers topics such as Bayesian networks, decision tree learning, Support Vector Machines, statistical learning methods, unsupervised learning and reinforcement learning. The course covers theoretical concepts such as inductive bias, the PAC learning framework, Bayesian learning methods, margin-based learning, and Occam's Razor. Short programming assignments include hands-on experiments with various learning algorithms. This course is designed to give a graduate-level student a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who do research in machine learning.
 	- Taught by one of the leading experts on Machine Learning - **Tom Mitchell**
@@ -28,7 +31,7 @@ Also included: some general computer science tools.
 	- [2014 Lectures](http://cs109.github.io/2014/)
 	- [2013 Lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) *(slightly better)*
 
-# General Mathematics
+## General Mathematics
 - Courses:
     - [CVX 101](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/info) **Convex Optimization** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
@@ -42,7 +45,7 @@ Also included: some general computer science tools.
 		- [Assignments](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 		- [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 
-# Artificial Intelligence
+## Artificial Intelligence
 - Courses:
 	- [6.868J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) **The Society of Mind** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
   	- This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
@@ -55,7 +58,7 @@ Also included: some general computer science tools.
 		- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 		- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
 
-# Health Informatics
+## Health Informatics
 - Courses:
 	- [CS 5540](https://sites.google.com/site/cs5540sp2013/) **Computational Techniques for Analyzing Clinical Data** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 	- CS5540 is a masters-level course that covers a wide range of clinical problems and their associated computational challenges. The practice of medicine is filled with digitally accessible information about patients, ranging from EKG readings to MRI images to electronic health records. This poses a huge opportunity for computer tools that make sense out of this data. Computation tools can be used to answer seemingly straightforward questions about a single patient's test results (“Does this patient have a normal heart rhythm?”), or to address vital questions about large populations (“Is there any clinical condition that affects the risks of Alzheimer”). In CS5540 we will look at many of the most important sources of clinical data and discuss the basic computational techniques used for their analysis, ranging in sophistication from current clinical practice to state-of-the-art research projects.
@@ -63,14 +66,14 @@ Also included: some general computer science tools.
 		- [Lectures](https://sites.google.com/site/cs5540sp2013/lectures)
 		- [Assignments](https://sites.google.com/site/cs5540sp2013/assignments)
 
-# Social Informatics
+## Social Informatics
 - Courses:
 	- [Info 290](http://www.ischool.berkeley.edu/courses/i290-abdt) **Analyzing Big Data with Twitter** *UC Berkeley school of information* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
 		- In this course, UC Berkeley professors and Twitter engineers provide lectures on the most cutting-edge algorithms and software tools for data analytics as applied to Twitter's data. Topics include applied natural language processing algorithms such as sentiment analysis, large scale anomaly detection, real-time search, information diffusion and outbreak detection, trend detection in social streams, recommendation algorithms, and advanced frameworks for distributed computing.
 		-  [Lecture Videos](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
 		-  [Previous Years coursepage](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
 
-# Big Data
+## Big Data
 - Courses:
 	- [EECS E6893 & EECS E6895](http://www.ee.columbia.edu/~cylin/course/bigdata/) **Big Data Analytics & Advanced Big Data Analytics** *Columbia University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 		- Students will gain knowledge on analyzing Big Data. It serves as an introductory course for graduate students who are expecting to face Big Data storage, processing, analysis, visualization, and application issues on both workplaces and research environments.
@@ -78,8 +81,7 @@ Also included: some general computer science tools.
 		- [Course Site](http://www.ee.columbia.edu/~cylin/course/bigdata/)
 		- Assignments - Assignments are present in the Course Slides
 
-# Deep Learning
-
+## Deep Learning
 - Courses:
 	- [**Machine Learning: 2014-2015**](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) *University of Oxford* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	    - The course focusses on neural networks and uses the [Torch](https://github.com/torch/torch7/wiki/Cheatsheet) deep learning library (implemented in Lua) for exercises and assignments. Topics include: logistic regression, back-propagation, convolutional neural networks, max-margin learning, siamese networks, recurrent neural networks, LSTMs, hand-writing with recurrent neural networks, variational autoencoders and image generation and reinforcement learning
@@ -107,7 +109,6 @@ Also included: some general computer science tools.
 		- [Lecture Notes](http://llcao.net/cu-deeplearning15/index.html) 
 
 ## Numerical Methods
-
 - Courses:
   - [CS 3220](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/) **Introduction to Scientific Computing** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 		- In this one-semester survey course, we introduce numerical methods for solving linear and nonlinear equations, interpolating data, computing integrals, and solving differential equations, and we describe how to use these tools wisely (we hope!) when solving scientific problems.
@@ -116,7 +117,6 @@ Also included: some general computer science tools.
 		- [Assignments](http://www.cs.cornell.edu/~bindel/class/cs3220-s12/assignments.html)
 
 ## Robotics
-
 - Courses:
 	- [CS 287](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/) **Advanced Robotics** *UC Berkeley* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
         -  The course introduces the math and algorithms underneath state-of-the-art robotic systems. The majority of these techniques are heavily based on probabilistic reasoning and optimization--two areas with wide applicability in modern Artificial Intelligence. An intended side-effect of the course is to generally strengthen your expertise in these two areas.
@@ -124,7 +124,6 @@ Also included: some general computer science tools.
         - [Assignments](http://www.cs.berkeley.edu/~pabbeel/cs287-fa13/#assignments)
 
 ## Information Retrieval
-
 - Courses:
 		- [CS 4300](http://www.cs.cornell.edu/courses/CS4300/2013fa/) **Information Retrieval** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
 			- Studies the methods used to search for and discover information in large-scale systems. The emphasis is on information retrieval applied to textual materials, but there is some discussion of other formats.The course includes techniques for searching, browsing, and filtering information and the use of classification systems and thesauruses. The techniques are illustrated with examples from web searching and digital libraries.
@@ -133,7 +132,6 @@ Also included: some general computer science tools.
 			- [Assignments](http://www.cs.cornell.edu/courses/CS4300/2013fa/lectures.htm)
 
 ## General Computer Science
-
 - [Awesome Lists](https://github.com/sindresorhus/awesome):
     - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
     - [OS X](https://github.com/iCHAIT/awesome-osx)
