@@ -1,3 +1,4 @@
+
 # Big List of Interesting Stuff
 This was originally going to be a list of relevant machine learning stuff, but then I got lost in awesome lists and found myself wanting to aggregate interesting stuff from all over the internet.
 
@@ -7,19 +8,34 @@ Warning: This place is a mess right now. Sorry. :(
 
 TODO: LOL this needs work
 
-- [General Machine Learning Courses](#general-machine-learning-courses)
-- [General Mathematics](#general-mathematics)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Health Informatics](#health-informatics)
-- [Social Informatics](#social-informatics)
-- [Big Data](#big-data)
-- [Deep Learning](#deep-learning)
-- [Numerical Methods](#numerical-methods)
-- [Robotics](#robotics)
-- [Information Retrieval](#information-retrieval)
-- [Data Sets](#data-sets)
-- [General Computer Science Tools](#general-computer-science-tools)
-- [Blogs](#blogs)
+- [Emacs](#emacs)
+
+## Emacs
+
+#### Awesome Lists
+- [emacs-tw](https://github.com/emacs-tw/awesome-emacs)
+- [tacticiankerala](https://github.com/tacticiankerala/awesome-emacs)
+
+#### Useful Packages
+- [MELPA](https://github.com/melpa/melpa)
+	- Package manager
+- [EWW](https://www.gnu.org/software/emacs/manual/html_mono/eww.html)
+	- Default web browser
+- [browse-at-remote](https://github.com/rmuslimov/browse-at-remote)
+	- Browse git repositories on GitHub from emacs
+- [dired](https://www.emacswiki.org/emacs/DiredMode)
+    - Emacs package manager
+- [emacs-jedi](https://github.com/tkf/emacs-jedi)
+    - Python autocomplete
+
+#### To Investigate Later:
+- [emacs-webkit](https://www.emacswiki.org/emacs/WebKit)
+	- Potentially better web browser
+- [elpy](https://github.com/jorgenschaefer/elpy)
+    - Python development environment
+- [anaconda-mode](https://github.com/proofit404/anaconda-mode)
+    - Python development environment
+- [github-clone](https://github.com/dgtized/github-clone.el)
 
 ## Awesome Lists
 - [General](https://github.com/jnv/lists)
@@ -34,8 +50,6 @@ TODO: LOL this needs work
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Datasets](https://github.com/viisar/awesome-datasets)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
-- [More Emacs](https://github.com/sefakilic/awesome-emacs)
-- [Even More Emacs](https://github.com/tacticiankerala/awesome-emacs)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Open Science](https://github.com/silky/awesome-open-science)
 - [More Datasets](https://github.com/caesar0301/awesome-public-datasets)
