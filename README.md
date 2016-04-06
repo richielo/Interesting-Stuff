@@ -24,7 +24,7 @@ Warning: This place is a mess right now. Sorry. :(
 - 
 
 #### Courses
-- [Categorization, Communication & Consciousness](http://catcomcon2015.blogspot.ca/2014/01/psyc-538740-seminar-syllabus.html)
+- [Categorization, Communication & Consciousness](http://catcomcon2015.blogspot.ca/2014/01/psyc-538740-seminar-syllabus.html) *McGill University*
 	- This course will outline the main challenges that cognitive science, still very incomplete, faces today, focusing on the capacity to learn sensorimotor categories, to name and describe them verbally, and to transmit them to others, concluding with cognition distributed on the Web.
 - [6.868J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) **The Society of Mind** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
   - This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
@@ -158,8 +158,6 @@ Warning: This place is a mess right now. Sorry. :(
 		- [Assignments](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 		- [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 
-## Artificial Intelligence
-- 
 ## Health Informatics
 - Courses:
 	- [CS 5540](https://sites.google.com/site/cs5540sp2013/) **Computational Techniques for Analyzing Clinical Data** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
