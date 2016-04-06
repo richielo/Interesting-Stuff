@@ -6,9 +6,32 @@ Warning: This place is a mess right now. Sorry. :(
 
 ## Table of Contents
 
-TODO: LOL this needs work
-
+- [Artificial Intelligence](#artificial-intelligence)
 - [Emacs](#emacs)
+
+#### Awesome Lists
+- [owainlewis](https://github.com/owainlewis/awesome-artificial-intelligence)
+
+#### Books
+- [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
+	- Also consider browsing the [list of recommended reading](http://aima.cs.berkeley.edu/books.html), divided by each chapter in "Artificial Intelligence: A Modern Approach".
+
+#### Courses
+- [6.868J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) **The Society of Mind** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+  - This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
+  - [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/)
+  - [Assignments](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/assignments/)
+  - [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/readings/)
+- [CS 6700](http://www.cs.cornell.edu/courses/CS6700/2013sp/) **Advanced Artificial Intelligence** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
+	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
+
+#### Misc.
+- [AITopics](http://aitopics.org/misc/about-us)
+- [AIResources](http://airesources.org/about.php)
+
 
 ## Emacs
 
@@ -73,31 +96,30 @@ TODO: LOL this needs work
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-https://github.com/kjw0612/awesome-deep-vision
-https://github.com/lucasviola/awesome-functional-programming
-https://github.com/mre/awesome-static-analysis
-https://github.com/onurakpolat/awesome-bigdata
-https://github.com/youngwookim/awesome-hadoop
-https://github.com/igorbarinov/awesome-data-engineering
-https://github.com/manuzhang/awesome-streaming
-https://github.com/JanVanRyswyck/awesome-talks
-https://github.com/owainlewis/awesome-artificial-intelligence
-https://github.com/rossant/awesome-math
-https://github.com/vhf/free-programming-books
-https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md
-https://github.com/dreikanter/sublime-bookmarks
-https://github.com/mhinz/vim-galore
-https://github.com/phillipadsmith/awesome-github
-https://github.com/aharris88/awesome-cli-apps
-https://github.com/alebcay/awesome-shell
-https://github.com/stefanbuck/awesome-browser-extensions-for-github
-https://github.com/arslanbilal/git-cheat-sheet
-https://github.com/git-tips/tips
-https://github.com/stevemao/awesome-git-addons
-https://github.com/moul/awesome-ssh
-https://github.com/guipdutra/awesome-geek-podcasts
-https://github.com/iCHAIT/awesome-osx
-https://github.com/sindresorhus/awesome#theory
+- https://github.com/kjw0612/awesome-deep-vision
+- https://github.com/lucasviola/awesome-functional-programming
+- https://github.com/mre/awesome-static-analysis
+- https://github.com/onurakpolat/awesome-bigdata
+- https://github.com/youngwookim/awesome-hadoop
+- https://github.com/igorbarinov/awesome-data-engineering
+- https://github.com/manuzhang/awesome-streaming
+- https://github.com/JanVanRyswyck/awesome-talks
+- https://github.com/rossant/awesome-math
+- https://github.com/vhf/free-programming-books
+- https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md
+- https://github.com/dreikanter/sublime-bookmarks
+- https://github.com/mhinz/vim-galore
+- https://github.com/phillipadsmith/awesome-github
+- https://github.com/aharris88/awesome-cli-apps
+- https://github.com/alebcay/awesome-shell
+- https://github.com/stefanbuck/awesome-browser-extensions-for-github
+- https://github.com/arslanbilal/git-cheat-sheet
+- https://github.com/git-tips/tips
+- https://github.com/stevemao/awesome-git-addons
+- https://github.com/moul/awesome-ssh
+- https://github.com/guipdutra/awesome-geek-podcasts
+- https://github.com/iCHAIT/awesome-osx
+- https://github.com/sindresorhus/awesome#theory
 
 ## General Machine Learning Courses
 - [CPSC 540](http://www.cs.ubc.ca/~nando/540-2013/index.html) **Machine Learning** *UBC* Nando de Freitas
@@ -129,18 +151,7 @@ https://github.com/sindresorhus/awesome#theory
 		- [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
 
 ## Artificial Intelligence
-- Courses:
-	- [6.868J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) **The Society of Mind** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  	- This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
-	  - [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/)
-	  - [Assignments](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/assignments/)
-	  - [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/readings/)
-	- [CS 6700](http://www.cs.cornell.edu/courses/CS6700/2013sp/) **Advanced Artificial Intelligence** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-		- The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
-		- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
-		- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
-		- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
-
+- 
 ## Health Informatics
 - Courses:
 	- [CS 5540](https://sites.google.com/site/cs5540sp2013/) **Computational Techniques for Analyzing Clinical Data** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
