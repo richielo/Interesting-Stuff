@@ -18,7 +18,14 @@ Warning: This place is a mess right now. Sorry. :(
 - [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
 	- Also consider browsing the [list of recommended reading](http://aima.cs.berkeley.edu/books.html), divided by each chapter in "Artificial Intelligence: A Modern Approach".
 
+#### Papers
+- [Computing Machinery and Intelligence](http://www.csee.umbc.edu/courses/471/papers/turing.pdf) Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
+	- The original Turing test.
+- 
+
 #### Courses
+- [Categorization, Communication & Consciousness](http://catcomcon2015.blogspot.ca/2014/01/psyc-538740-seminar-syllabus.html)
+	- This course will outline the main challenges that cognitive science, still very incomplete, faces today, focusing on the capacity to learn sensorimotor categories, to name and describe them verbally, and to transmit them to others, concluding with cognition distributed on the Web.
 - [6.868J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) **The Society of Mind** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
   - This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
   - [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/)
@@ -33,7 +40,6 @@ Warning: This place is a mess right now. Sorry. :(
 #### Misc.
 - [AITopics](http://aitopics.org/misc/about-us)
 - [AIResources](http://airesources.org/about.php)
-
 
 ## Emacs
 
