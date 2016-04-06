@@ -7,7 +7,11 @@ Warning: This place is a mess right now. Sorry. :(
 ## Table of Contents
 
 - [Artificial Intelligence](#artificial-intelligence)
+- [Cognitive Science](#cognitive-science)
 - [Emacs](#emacs)
+- [Machine Learning](#machine-learning)
+
+
 
 ## Artificial Intelligence
 
@@ -17,6 +21,7 @@ Warning: This place is a mess right now. Sorry. :(
 #### Books
 - [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
 	- Also consider browsing the [list of recommended reading](http://aima.cs.berkeley.edu/books.html), divided by each chapter in "Artificial Intelligence: A Modern Approach".
+- [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373)
 
 #### Papers
 - [Computing Machinery and Intelligence](http://www.csee.umbc.edu/courses/471/papers/turing.pdf) Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
@@ -24,8 +29,6 @@ Warning: This place is a mess right now. Sorry. :(
 - 
 
 #### Courses
-- [Categorization, Communication & Consciousness](http://catcomcon2015.blogspot.ca/2014/01/psyc-538740-seminar-syllabus.html) *McGill University*
-	- This course will outline the main challenges that cognitive science, still very incomplete, faces today, focusing on the capacity to learn sensorimotor categories, to name and describe them verbally, and to transmit them to others, concluding with cognition distributed on the Web.
 - [6.868J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) **The Society of Mind** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
   - This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
   - [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/)
@@ -41,6 +44,17 @@ Warning: This place is a mess right now. Sorry. :(
 - [AITopics](http://aitopics.org/misc/about-us)
 - [AIResources](http://airesources.org/about.php)
 
+
+
+## Cognitive Science
+
+#### Books
+- [The Society of Mind](http://aurellem.org/society-of-mind/index.html) by Marvin Minsky
+
+#### Courses
+- [Categorization, Communication & Consciousness](http://catcomcon2015.blogspot.ca/2014/01/psyc-538740-seminar-syllabus.html) *McGill University*
+	- This course will outline the main challenges that cognitive science, still very incomplete, faces today, focusing on the capacity to learn sensorimotor categories, to name and describe them verbally, and to transmit them to others, concluding with cognition distributed on the Web.
+	
 ## Emacs
 
 #### Awesome Lists
@@ -68,6 +82,30 @@ Warning: This place is a mess right now. Sorry. :(
     - Python development environment
 - [github-clone](https://github.com/dgtized/github-clone.el)
 
+
+
+## Machine Learning
+
+#### Awesome Lists
+- [josephmisiti](https://github.com/josephmisiti/awesome-machine-learning)
+- [ujjwalkarn](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) tutorials
+
+#### Courses
+- [CPSC 540](http://www.cs.ubc.ca/~nando/540-2013/index.html) **Machine Learning** *UBC* Nando de Freitas
+- [10-601](http://www.cs.cmu.edu/~ninamf/courses/601sp15/) **Machine Learning** *Carnegie Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
+	- This course covers the theory and practical algorithms for machine learning from a variety of perspectives. It covers topics such as Bayesian networks, decision tree learning, Support Vector Machines, statistical learning methods, unsupervised learning and reinforcement learning. The course covers theoretical concepts such as inductive bias, the PAC learning framework, Bayesian learning methods, margin-based learning, and Occam's Razor. Short programming assignments include hands-on experiments with various learning algorithms. This course is designed to give a graduate-level student a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who do research in machine learning.
+	- Taught by one of the leading experts on Machine Learning - **Tom Mitchell**
+	- [Lectures](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+	- [Project Ideas and Datasets](http://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml)
+- [CS 109](http://cs109.github.io/2015/) **Data Science** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- Learning from data in order to gain useful predictions and insights. This course introduces methods for five key facets of an investigation: data wrangling, cleaning, and sampling to get a suitable data set; data management to be able to access big data quickly and reliably; exploratory data analysis to generate hypotheses and intuition; prediction based on statistical methods such as regression and classification; and communication of results through visualization, stories, and interpretable summaries.
+	- [Lectures](http://cm.dce.harvard.edu/2015/01/14328/publicationListing.shtml)
+	- [Slides](http://cs109.github.io/2014/pages/schedule.html)
+	- [Labs and Assignments](http://cs109.github.io/2014/pages/homework.html)
+	- [2014 Lectures](http://cs109.github.io/2014/)
+	- [2013 Lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) *(slightly better)*
+
+
 ## Awesome Lists
 - [General](https://github.com/jnv/lists)
 - [Documentation](https://github.com/PharkMillups/beautiful-docs)
@@ -81,7 +119,7 @@ Warning: This place is a mess right now. Sorry. :(
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Datasets](https://github.com/viisar/awesome-datasets)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
-- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+
 - [Open Science](https://github.com/silky/awesome-open-science)
 - [More Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
@@ -102,7 +140,7 @@ Warning: This place is a mess right now. Sorry. :(
 - [Speech & Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#python-tools)
 - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-- [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - https://github.com/kjw0612/awesome-deep-vision
 - https://github.com/lucasviola/awesome-functional-programming
@@ -128,21 +166,6 @@ Warning: This place is a mess right now. Sorry. :(
 - https://github.com/guipdutra/awesome-geek-podcasts
 - https://github.com/iCHAIT/awesome-osx
 - https://github.com/sindresorhus/awesome#theory
-
-## General Machine Learning Courses
-- [CPSC 540](http://www.cs.ubc.ca/~nando/540-2013/index.html) **Machine Learning** *UBC* Nando de Freitas
-- [10-601](http://www.cs.cmu.edu/~ninamf/courses/601sp15/) **Machine Learning** *Carnegie Mellon University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
-	- This course covers the theory and practical algorithms for machine learning from a variety of perspectives. It covers topics such as Bayesian networks, decision tree learning, Support Vector Machines, statistical learning methods, unsupervised learning and reinforcement learning. The course covers theoretical concepts such as inductive bias, the PAC learning framework, Bayesian learning methods, margin-based learning, and Occam's Razor. Short programming assignments include hands-on experiments with various learning algorithms. This course is designed to give a graduate-level student a thorough grounding in the methodologies, technologies, mathematics and algorithms currently needed by people who do research in machine learning.
-	- Taught by one of the leading experts on Machine Learning - **Tom Mitchell**
-	- [Lectures](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
-	- [Project Ideas and Datasets](http://www.cs.cmu.edu/~tom/10701_sp11/proj.shtml)
-- [CS 109](http://cs109.github.io/2015/) **Data Science** *Harvard University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- Learning from data in order to gain useful predictions and insights. This course introduces methods for five key facets of an investigation: data wrangling, cleaning, and sampling to get a suitable data set; data management to be able to access big data quickly and reliably; exploratory data analysis to generate hypotheses and intuition; prediction based on statistical methods such as regression and classification; and communication of results through visualization, stories, and interpretable summaries.
-	- [Lectures](http://cm.dce.harvard.edu/2015/01/14328/publicationListing.shtml)
-	- [Slides](http://cs109.github.io/2014/pages/schedule.html)
-	- [Labs and Assignments](http://cs109.github.io/2014/pages/homework.html)
-	- [2014 Lectures](http://cs109.github.io/2014/)
-	- [2013 Lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) *(slightly better)*
 
 ## General Mathematics
 - Courses:
