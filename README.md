@@ -9,6 +9,8 @@ Warning: This place is a mess right now. Sorry. :(
 - [Artificial Intelligence](#artificial-intelligence)
 - [Emacs](#emacs)
 
+## Artificial Intelligence
+
 #### Awesome Lists
 - [owainlewis](https://github.com/owainlewis/awesome-artificial-intelligence)
 
