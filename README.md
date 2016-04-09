@@ -6,45 +6,12 @@ Warning: This place is a mess right now. Sorry. :(
 
 ## Table of Contents
 
-- [Artificial Intelligence](#artificial-intelligence)
+
 - [Cognitive Science](#cognitive-science)
 - [Emacs](#emacs)
-- [Machine Learning](#machine-learning)
-
-
-
-## Artificial Intelligence
-
-#### Awesome Lists
-- [owainlewis](https://github.com/owainlewis/awesome-artificial-intelligence)
-
-#### Books
-- [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
-	- Also consider browsing the [list of recommended reading](http://aima.cs.berkeley.edu/books.html), divided by each chapter in "Artificial Intelligence: A Modern Approach".
-- [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373)
-
-#### Papers
-- [Computing Machinery and Intelligence](http://www.csee.umbc.edu/courses/471/papers/turing.pdf) Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
-	- The original Turing test.
-- 
-
-#### Courses
-- [6.868J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) **The Society of Mind** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-  - This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
-  - [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/)
-  - [Assignments](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/assignments/)
-  - [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/readings/)
-- [CS 6700](http://www.cs.cornell.edu/courses/CS6700/2013sp/) **Advanced Artificial Intelligence** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
-	- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
-	- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
-	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
-
-#### Misc.
-- [AITopics](http://aitopics.org/misc/about-us)
-- [AIResources](http://airesources.org/about.php)
-
-
+- [General Artificial Intelligence](#general-artificial-intelligence)
+- [General Machine Learning](#general-machine-learning)
+- [Reinforcement Learning](#reinforcement-learning)
 
 ## Cognitive Science
 
@@ -82,9 +49,39 @@ Warning: This place is a mess right now. Sorry. :(
     - Python development environment
 - [github-clone](https://github.com/dgtized/github-clone.el)
 
+## General Artificial Intelligence
 
+#### Awesome Lists
+- [owainlewis](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [svaksha](https://github.com/svaksha/pythonidae/blob/master/AI.md)
+	- Aritificial Intelligence in Python
 
-## Machine Learning
+#### Books
+- [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
+	- Also consider browsing the [list of recommended reading](http://aima.cs.berkeley.edu/books.html), divided by each chapter in "Artificial Intelligence: A Modern Approach".
+- [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373)
+
+#### Papers
+- [Computing Machinery and Intelligence](http://www.csee.umbc.edu/courses/471/papers/turing.pdf) Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460.
+	- The original Turing test.
+
+#### Courses
+- [6.868J](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/index.htm) **The Society of Mind** *MIT* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />  <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+  - This course is an introduction, by Prof. [Marvin Minsky](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html?_r=0), to the theory that tries to explain how minds are made from collections of simpler processes. It treats such aspects of thinking as vision, language, learning, reasoning, memory, consciousness, ideals, emotions, and personality. It incorporates ideas from psychology, artificial intelligence, and computer science to resolve theoretical issues such as wholes vs. parts, structural vs. functional descriptions, declarative vs. procedural representations, symbolic vs. connectionist models, and logical vs. common-sense theories of learning.
+  - [Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/video-lectures/)
+  - [Assignments](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/assignments/)
+  - [Readings](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-868j-the-society-of-mind-fall-2011/readings/)
+- [CS 6700](http://www.cs.cornell.edu/courses/CS6700/2013sp/) **Advanced Artificial Intelligence** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- The design of systems that are among top 10 performers in the world (human, computer, or hybrid human-computer).
+	- [Syllabus](http://www.cs.cornell.edu/courses/CS6700/2013sp/lectures/CS6700-Overview_v2.pptx)
+	- [Lectures](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
+	- [Readings](http://www.cs.cornell.edu/courses/CS6700/2013sp/)
+
+#### Misc.
+- [AITopics](http://aitopics.org/misc/about-us)
+- [AIResources](http://airesources.org/about.php)
+
+## General Machine Learning
 
 #### Awesome Lists
 - [josephmisiti](https://github.com/josephmisiti/awesome-machine-learning)
@@ -105,6 +102,23 @@ Warning: This place is a mess right now. Sorry. :(
 	- [2014 Lectures](http://cs109.github.io/2014/)
 	- [2013 Lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) *(slightly better)*
 
+## Reinforcement Learning
+
+#### Books
+- [Reinforcement Learning: An Introduction](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
+	- Sutton & Barto (1998), a classic introduction to the field.
+- [Answers in this Quora thread](https://www.quora.com/What-are-the-best-books-about-reinforcement-learning)
+- [Algorithms for Reinforcement Learning](http://www.ualberta.ca/~szepesva/RLBook.html)
+	- Szepesvari (2010), for off-the-shelf algorithms
+- [Reinforcement Learning and Dynamic Programming using Function Approximators](http://rlbook.busoniu.net/). 
+	- Explains state-of-the-art algorithms
+- [Reinforcement Learning: State-of-the-Art. Vol. 12 of Adaptation, Learning and Optimization](http://www.springer.com/us/book/9783642276446)
+- [Optimal Adaptive Control and Differential Games by Reinforcement Learning Principles](http://www.theiet.org/resources/books/control/opt_adp.cfm)
+- [Markov Decision Processes in Artificial Intelligence](http://ca.wiley.com/WileyCDA/WileyTitle/productCd-1848211678.html)
+
+#### Book Chapters
+- [Approximate Dynamic Programming](http://web.mit.edu/dimitrib/www/dpchapter.pdf)
+	- Bertsekas (2011), for theoretical background
 
 ## Awesome Lists
 - [General](https://github.com/jnv/lists)
@@ -119,7 +133,6 @@ Warning: This place is a mess right now. Sorry. :(
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Datasets](https://github.com/viisar/awesome-datasets)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
-
 - [Open Science](https://github.com/silky/awesome-open-science)
 - [More Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
@@ -127,7 +140,7 @@ Warning: This place is a mess right now. Sorry. :(
 - [Torch](https://github.com/carpedm20/awesome-torch)
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#distributed-programming)
 - [Statistics in Python](https://github.com/svaksha/pythonidae/blob/master/Statistics.md)
-- [Artificial Intelligence in Python](https://github.com/svaksha/pythonidae/blob/master/AI.md)
+
 - [Python](https://github.com/vinta/awesome-python)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
