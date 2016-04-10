@@ -6,12 +6,26 @@ Warning: This place is a mess right now. Sorry. :(
 
 ## Table of Contents
 
-
+- [Attention](#attention)
 - [Cognitive Science](#cognitive-science)
 - [Emacs](#emacs)
 - [General Artificial Intelligence](#general-artificial-intelligence)
 - [General Machine Learning](#general-machine-learning)
 - [Reinforcement Learning](#reinforcement-learning)
+
+## Attention
+
+#### Attention-based Neural Networks
+- [Testing Visual Attention in Dynamic Environments](http://arxiv.org/pdf/1510.08949.pdf)
+- [Effective Approaches to Attention-based Neural Machine Translation](http://arxiv.org/abs/1508.04025)
+- [Attention-Based Convolutional Neural Network for Machine Comprehension](http://arxiv.org/abs/1602.04341)
+- [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
+
+#### Bayesian brain hypothesis
+- [Frontiers in Human Neuroscience: Attention, uncertainty, and free-energy](http://www.fil.ion.ucl.ac.uk/~karl/Attention%20uncertainty%20and%20free-energy.pdf)
+- [Nature Reviews Neuroscience](http://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf)
+- [Whatever next? Predictive brains, situated agents, and the future of cognitive science](http://www.fil.ion.ucl.ac.uk/~karl/Whatever%20next.pdf)
+- [Mesolimbic confidence signals guide perceptual learning in the absence of external feedback](http://elifesciences.org/content/5/e13388v1)
 
 ## Cognitive Science
 
