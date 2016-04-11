@@ -12,8 +12,11 @@ Warning: This place is a mess right now. Sorry. :(
 - [Feature Selection](#feature-selection)
 - [General Artificial Intelligence](#general-artificial-intelligence)
 - [General Machine Learning](#general-machine-learning)
+- [General Mathematics](#general-mathematics)
+- [Health Informatics](#health-informatics)
 - [Imbalanced Data](#imbalanced-data)
 - [Reinforcement Learning](#reinforcement-learning)
+- [Social Informatics](#social-informatics)
 
 ## Attention
 
@@ -120,6 +123,29 @@ Warning: This place is a mess right now. Sorry. :(
 	- [2014 Lectures](http://cs109.github.io/2014/)
 	- [2013 Lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) *(slightly better)*
 
+
+## General Mathematics
+- Courses:
+    - [CVX 101](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/info) **Convex Optimization** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+ <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+ 	    - The course concentrates on recognizing and solving convex optimization problems that arise in applications.  Topics addressed include the following.  Convex sets, functions, and optimization problems.  Basics of convex analysis.  Least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems.  Optimality conditions, duality theory, theorems of alternative, and applications.  Interior-point methods.  Applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
+  	    - [Textbook](http://web.stanford.edu/~boyd/cvxbook/)
+  	    - [Lectures and Assignments](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/)
+  	- [CS 6840](http://www.cs.cornell.edu/courses/CS6840/2014sp/) **Algorithmic Game Theory** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+		- Algorithmic Game Theory combines algorithmic thinking with game-theoretic, or, more generally, economic concepts. The course will study a range of topics at this interface
+		- [Syllabus](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
+		- [Lectures](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
+		- [Assignments](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
+		- [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
+
+## Health Informatics
+- Courses:
+	- [CS 5540](https://sites.google.com/site/cs5540sp2013/) **Computational Techniques for Analyzing Clinical Data** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
+	- CS5540 is a masters-level course that covers a wide range of clinical problems and their associated computational challenges. The practice of medicine is filled with digitally accessible information about patients, ranging from EKG readings to MRI images to electronic health records. This poses a huge opportunity for computer tools that make sense out of this data. Computation tools can be used to answer seemingly straightforward questions about a single patient's test results (“Does this patient have a normal heart rhythm?”), or to address vital questions about large populations (“Is there any clinical condition that affects the risks of Alzheimer”). In CS5540 we will look at many of the most important sources of clinical data and discuss the basic computational techniques used for their analysis, ranging in sophistication from current clinical practice to state-of-the-art research projects.
+		- [Syllabus](https://sites.google.com/site/cs5540sp2013/home/course-description)
+		- [Lectures](https://sites.google.com/site/cs5540sp2013/lectures)
+		- [Assignments](https://sites.google.com/site/cs5540sp2013/assignments)
+
 ## Imbalanced Data
 
 #### Papers
@@ -151,6 +177,13 @@ Warning: This place is a mess right now. Sorry. :(
 #### Book Chapters
 - [Approximate Dynamic Programming](http://web.mit.edu/dimitrib/www/dpchapter.pdf)
 	- Bertsekas (2011), for theoretical background
+
+## Social Informatics
+- Courses:
+	- [Info 290](http://www.ischool.berkeley.edu/courses/i290-abdt) **Analyzing Big Data with Twitter** *UC Berkeley school of information* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
+		- In this course, UC Berkeley professors and Twitter engineers provide lectures on the most cutting-edge algorithms and software tools for data analytics as applied to Twitter's data. Topics include applied natural language processing algorithms such as sentiment analysis, large scale anomaly detection, real-time search, information diffusion and outbreak detection, trend detection in social streams, recommendation algorithms, and advanced frameworks for distributed computing.
+		-  [Lecture Videos](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
+		-  [Previous Years coursepage](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
 
 ## Awesome Lists
 - [General](https://github.com/jnv/lists)
@@ -212,34 +245,6 @@ Warning: This place is a mess right now. Sorry. :(
 - https://github.com/iCHAIT/awesome-osx
 - https://github.com/sindresorhus/awesome#theory
 
-## General Mathematics
-- Courses:
-    - [CVX 101](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/info) **Convex Optimization** *Stanford University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
- <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
- 	    - The course concentrates on recognizing and solving convex optimization problems that arise in applications.  Topics addressed include the following.  Convex sets, functions, and optimization problems.  Basics of convex analysis.  Least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems.  Optimality conditions, duality theory, theorems of alternative, and applications.  Interior-point methods.  Applications to signal processing, statistics and machine learning, control and mechanical engineering, digital and analog circuit design, and finance.
-  	    - [Textbook](http://web.stanford.edu/~boyd/cvxbook/)
-  	    - [Lectures and Assignments](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/courseware/7206c57866504e83821d00b5d3f80793/)
-  	- [CS 6840](http://www.cs.cornell.edu/courses/CS6840/2014sp/) **Algorithmic Game Theory** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-		- Algorithmic Game Theory combines algorithmic thinking with game-theoretic, or, more generally, economic concepts. The course will study a range of topics at this interface
-		- [Syllabus](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-		- [Lectures](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-		- [Assignments](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-		- [Readings](http://www.cs.cornell.edu/courses/CS6840/2014sp/)
-
-## Health Informatics
-- Courses:
-	- [CS 5540](https://sites.google.com/site/cs5540sp2013/) **Computational Techniques for Analyzing Clinical Data** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments"/> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" title="Readings" />
-	- CS5540 is a masters-level course that covers a wide range of clinical problems and their associated computational challenges. The practice of medicine is filled with digitally accessible information about patients, ranging from EKG readings to MRI images to electronic health records. This poses a huge opportunity for computer tools that make sense out of this data. Computation tools can be used to answer seemingly straightforward questions about a single patient's test results (“Does this patient have a normal heart rhythm?”), or to address vital questions about large populations (“Is there any clinical condition that affects the risks of Alzheimer”). In CS5540 we will look at many of the most important sources of clinical data and discuss the basic computational techniques used for their analysis, ranging in sophistication from current clinical practice to state-of-the-art research projects.
-		- [Syllabus](https://sites.google.com/site/cs5540sp2013/home/course-description)
-		- [Lectures](https://sites.google.com/site/cs5540sp2013/lectures)
-		- [Assignments](https://sites.google.com/site/cs5540sp2013/assignments)
-
-## Social Informatics
-- Courses:
-	- [Info 290](http://www.ischool.berkeley.edu/courses/i290-abdt) **Analyzing Big Data with Twitter** *UC Berkeley school of information* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" />
-		- In this course, UC Berkeley professors and Twitter engineers provide lectures on the most cutting-edge algorithms and software tools for data analytics as applied to Twitter's data. Topics include applied natural language processing algorithms such as sentiment analysis, large scale anomaly detection, real-time search, information diffusion and outbreak detection, trend detection in social streams, recommendation algorithms, and advanced frameworks for distributed computing.
-		-  [Lecture Videos](http://www.ischool.berkeley.edu/newsandevents/audiovideo/webcast/21963)
-		-  [Previous Years coursepage](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
 
 ## Big Data
 - Courses:
