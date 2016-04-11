@@ -8,7 +8,6 @@ Warning: This place is a mess right now. Sorry. :(
 
 - [Attention](#attention)
 - [Cognitive Science](#cognitive-science)
-- [Emacs](#emacs)
 - [Feature Selection](#feature-selection)
 - [General Artificial Intelligence](#general-artificial-intelligence)
 - [General Machine Learning](#general-machine-learning)
@@ -34,33 +33,6 @@ Warning: This place is a mess right now. Sorry. :(
 #### Courses
 - [Categorization, Communication & Consciousness](http://catcomcon2015.blogspot.ca/2014/01/psyc-538740-seminar-syllabus.html) *McGill University*
 	- This course will outline the main challenges that cognitive science, still very incomplete, faces today, focusing on the capacity to learn sensorimotor categories, to name and describe them verbally, and to transmit them to others, concluding with cognition distributed on the Web.
-	
-## Emacs
-
-#### Awesome Lists
-- [emacs-tw](https://github.com/emacs-tw/awesome-emacs)
-- [tacticiankerala](https://github.com/tacticiankerala/awesome-emacs)
-
-#### Useful Packages
-- [MELPA](https://github.com/melpa/melpa)
-	- Package manager
-- [EWW](https://www.gnu.org/software/emacs/manual/html_mono/eww.html)
-	- Default web browser
-- [browse-at-remote](https://github.com/rmuslimov/browse-at-remote)
-	- Browse git repositories on GitHub from emacs
-- [dired](https://www.emacswiki.org/emacs/DiredMode)
-    - Emacs package manager
-- [emacs-jedi](https://github.com/tkf/emacs-jedi)
-    - Python autocomplete
-
-#### To Investigate Later:
-- [emacs-webkit](https://www.emacswiki.org/emacs/WebKit)
-	- Potentially better web browser
-- [elpy](https://github.com/jorgenschaefer/elpy)
-    - Python development environment
-- [anaconda-mode](https://github.com/proofit404/anaconda-mode)
-    - Python development environment
-- [github-clone](https://github.com/dgtized/github-clone.el)
 
 ## Feature Selection
 
