@@ -9,8 +9,10 @@ Warning: This place is a mess right now. Sorry. :(
 - [Attention](#attention)
 - [Cognitive Science](#cognitive-science)
 - [Emacs](#emacs)
+- [Feature Selection](#feature-selection)
 - [General Artificial Intelligence](#general-artificial-intelligence)
 - [General Machine Learning](#general-machine-learning)
+- [Imbalanced Data](#imbalanced-data)
 - [Reinforcement Learning](#reinforcement-learning)
 
 ## Attention
@@ -20,12 +22,6 @@ Warning: This place is a mess right now. Sorry. :(
 - [Effective Approaches to Attention-based Neural Machine Translation](http://arxiv.org/abs/1508.04025)
 - [Attention-Based Convolutional Neural Network for Machine Comprehension](http://arxiv.org/abs/1602.04341)
 - [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
-
-#### Bayesian brain hypothesis
-- [Frontiers in Human Neuroscience: Attention, uncertainty, and free-energy](http://www.fil.ion.ucl.ac.uk/~karl/Attention%20uncertainty%20and%20free-energy.pdf)
-- [Nature Reviews Neuroscience](http://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf)
-- [Whatever next? Predictive brains, situated agents, and the future of cognitive science](http://www.fil.ion.ucl.ac.uk/~karl/Whatever%20next.pdf)
-- [Mesolimbic confidence signals guide perceptual learning in the absence of external feedback](http://elifesciences.org/content/5/e13388v1)
 
 ## Cognitive Science
 
@@ -62,6 +58,14 @@ Warning: This place is a mess right now. Sorry. :(
 - [anaconda-mode](https://github.com/proofit404/anaconda-mode)
     - Python development environment
 - [github-clone](https://github.com/dgtized/github-clone.el)
+
+## Feature Selection
+
+#### Papers
+- [Feature Selection: A Data Perspective](http://arxiv.org/abs/1601.07996)
+
+#### Python Packages
+- [scikit-feature](https://github.com/jundongl/scikit-feature)
 
 ## General Artificial Intelligence
 
@@ -116,7 +120,21 @@ Warning: This place is a mess right now. Sorry. :(
 	- [2014 Lectures](http://cs109.github.io/2014/)
 	- [2013 Lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) *(slightly better)*
 
+## Imbalanced Data
+
+#### Papers
+- [Learning from Imbalanced Data](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=5128907&url=http%3A%2F%2Fieeexplore.ieee.org%2Fstamp%2Fstamp.jsp%3Ftp%3D%26arnumber%3D5128907)
+
+#### Python Packages
+- [UnbalancedDataset](https://github.com/fmfn/UnbalancedDataset)
+
 ## Reinforcement Learning
+
+#### Bayesian brain hypothesis
+- [Frontiers in Human Neuroscience: Attention, uncertainty, and free-energy](http://www.fil.ion.ucl.ac.uk/~karl/Attention%20uncertainty%20and%20free-energy.pdf)
+- [Nature Reviews Neuroscience](http://www.fil.ion.ucl.ac.uk/~karl/The%20free-energy%20principle%20A%20unified%20brain%20theory.pdf)
+- [Whatever next? Predictive brains, situated agents, and the future of cognitive science](http://www.fil.ion.ucl.ac.uk/~karl/Whatever%20next.pdf)
+- [Mesolimbic confidence signals guide perceptual learning in the absence of external feedback](http://elifesciences.org/content/5/e13388v1)
 
 #### Books
 - [Reinforcement Learning: An Introduction](https://www.amazon.ca/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981)
