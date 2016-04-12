@@ -25,6 +25,10 @@ Warning: This place is a mess right now. Sorry. :(
 - [Effective Approaches to Attention-based Neural Machine Translation](http://arxiv.org/abs/1508.04025)
 - [Attention-Based Convolutional Neural Network for Machine Comprehension](http://arxiv.org/abs/1602.04341)
 - [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf)
+- [Multiple Object Recognition with Visual Attention](http://arxiv.org/abs/1412.7755)
+- [State-of-the-Art in Visual Attention Modeling](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6180177&tag=1)
+- [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](http://arxiv.org/abs/1601.01073)
 
 ## Cognitive Science
 
