@@ -8,6 +8,7 @@ Warning: This place is a mess right now. Sorry. :(
 
 - [Attention](#attention)
 - [Cognitive Science](#cognitive-science)
+- [Differential Privacy](#differential-privacy)
 - [Feature Selection](#feature-selection)
 - [General Artificial Intelligence](#general-artificial-intelligence)
 - [General Machine Learning](#general-machine-learning)
@@ -41,6 +42,11 @@ Warning: This place is a mess right now. Sorry. :(
 
 #### Python Packages
 - [scikit-feature](https://github.com/jundongl/scikit-feature)
+
+## Differential Privacy
+
+#### Papers
+- [Differentially Private Policy Evaluation](http://arxiv.org/pdf/1603.02010.pdf)
 
 ## General Artificial Intelligence
 
