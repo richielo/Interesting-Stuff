@@ -24,11 +24,15 @@ Warning: This place is a mess right now. Sorry. :(
 - [Testing Visual Attention in Dynamic Environments](http://arxiv.org/pdf/1510.08949.pdf)
 - [Effective Approaches to Attention-based Neural Machine Translation](http://arxiv.org/abs/1508.04025)
 - [Attention-Based Convolutional Neural Network for Machine Comprehension](http://arxiv.org/abs/1602.04341)
-- [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf)
 - [Multiple Object Recognition with Visual Attention](http://arxiv.org/abs/1412.7755)
 - [State-of-the-Art in Visual Attention Modeling](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6180177&tag=1)
 - [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](http://arxiv.org/abs/1601.01073)
+- [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf) **[Read]**
+	- Attention model capable of extracting information from image/video by adaptively processing select areas at high resolution
+	- Translation invariance, computation can be controlled independently of image size
+	- Trained as a POMDP using REINFORCE
+	-  Outperforms a convolutional neural network baseline on cluttered images, and on a dynamic visual control problem, where it learns to track a simple object without an explicit training signal for doing so
 
 ## Cognitive Science
 
