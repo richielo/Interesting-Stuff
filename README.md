@@ -21,7 +21,6 @@ Warning: This place is a mess right now. Sorry. :(
 ## Attention
 
 #### Attention-based Neural Networks
-- [Testing Visual Attention in Dynamic Environments](http://arxiv.org/pdf/1510.08949.pdf)
 - [Effective Approaches to Attention-based Neural Machine Translation](http://arxiv.org/abs/1508.04025)
 - [Attention-Based Convolutional Neural Network for Machine Comprehension](http://arxiv.org/abs/1602.04341)
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf)
@@ -49,6 +48,9 @@ Warning: This place is a mess right now. Sorry. :(
 	- Translation invariance, computation can be controlled independently of image size
 	- Trained as a POMDP using REINFORCE
 	-  Outperforms a convolutional neural network baseline on cluttered images, and on a dynamic visual control problem, where it learns to track a simple object without an explicit training signal for doing so
+- [Testing Visual Attention in Dynamic Environments](http://arxiv.org/pdf/1510.08949.pdf) **[Read]**
+	- Attention model with a different structure (2 LSTMs: "observer" and "controller")
+	- Trained using stochastic variational inference with a learned proposal distribution
 
 ## Cognitive Science
 
