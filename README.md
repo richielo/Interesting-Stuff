@@ -22,8 +22,8 @@ Warning: This place is a mess right now. Sorry. :(
 
 #### Attention-based Neural Networks
 - [Effective Approaches to Attention-based Neural Machine Translation](http://arxiv.org/abs/1508.04025)
+- [Learning generative models with visual attention](http://arxiv.org/pdf/1502.03044v2.pdf)
 - [Attention-Based Convolutional Neural Network for Machine Comprehension](http://arxiv.org/abs/1602.04341)
-- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf)
 - [Multiple Object Recognition with Visual Attention](http://arxiv.org/abs/1412.7755)
 - [State-of-the-Art in Visual Attention Modeling](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6180177&tag=1)
 - [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](http://arxiv.org/abs/1601.01073)
@@ -43,6 +43,12 @@ Warning: This place is a mess right now. Sorry. :(
 - [The Dynamic Representation of Scenes](https://www.cs.ubc.ca/~rensink/publications/download/VisCog_00.02.pdf)
 - [Evolving a Roving Eye for Go](http://nn.cs.utexas.edu/downloads/papers/stanley.gecco04.pdf)
 - [Q-Learning of Sequential Attention for Visual Object Recognition from Informative Local Descriptors](https://pdfs.semanticscholar.org/e2b5/dca2c46232a232356ca9034e35bc5b559dad.pdf)
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf)
+	- Two types of attention: "hard" and "soft"
+		- "Soft": deterministic, trainable with gradient descent
+		- "Hard": stochastic, trainable with maximization of approximate variational lower bound or REINFORCE
+	- Advantage: can interpret "what"/"where" the model is "paying attention" to
+	- Takes in feature vectors of lower level of convolutional neural net, outputs image caption
 - [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf) **[Read]**
 	- Attention model capable of extracting information from image/video by adaptively processing select areas at high resolution
 	- Translation invariance, computation can be controlled independently of image size
