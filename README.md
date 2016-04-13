@@ -188,6 +188,11 @@ Warning: This place is a mess right now. Sorry. :(
 - [Approximate Dynamic Programming](http://web.mit.edu/dimitrib/www/dpchapter.pdf)
 	- Bertsekas (2011), for theoretical background
 
+#### Courses
+- [Advanced Topics: RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+	- Instructor: David Silver
+	- [Lecture Videos](http://www.machinelearningtalks.com/tag/rl-course)
+
 #### Papers
 - [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://webdocs.cs.ualberta.ca/~sutton/papers/SMSM-NIPS99.pdf)
 - [Solving Deep Memory POMDPs with Recurrent Policy Gradients](http://people.idsia.ch/~foerster/2007/2/icann2007.pdf)
