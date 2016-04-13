@@ -28,6 +28,22 @@ Warning: This place is a mess right now. Sorry. :(
 - [Multiple Object Recognition with Visual Attention](http://arxiv.org/abs/1412.7755)
 - [State-of-the-Art in Visual Attention Modeling](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6180177&tag=1)
 - [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](http://arxiv.org/abs/1601.01073)
+- [Searching for objects driven by context](https://papers.nips.cc/paper/4717-searching-for-objects-driven-by-context.pdf)
+- [Optimal Scanning for Faster Object Detection](http://www.cs.washington.edu/research/insects/CVPR2009/objdetrec/optimscan_objdetect.pdf)
+- [A model of saliency-based visual attention for rapid scene analysis](http://www.lira.dist.unige.it/teaching/SINA_08-09/papers/itti98model.pdf)
+- [Long Short-Term Memory](http://deeplearning.cs.cmu.edu/pdfs/Hochreiter97_lstm.pdf)
+- [Eye movements in natural behavior](http://www.ncbi.nlm.nih.gov/pubmed/15808501)
+- [Rich feature hierarchies for accurate object detection and semantic segmentation](http://arxiv.org/abs/1311.2524)
+- [Cascade object detection with deformable part models.](https://www.cs.berkeley.edu/~rbg/papers/Cascade-Object-Detection-with-Deformable-Part-Models--Felzenszwalb-Girshick-McAllester.pdf)
+- [Learning where to attend with deep architectures for image tracking.](http://arxiv.org/pdf/1109.3737.pdf)
+- [I-POMDP: An infomax model of eye movement](http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=4640819&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D4640819)
+- [Learning to combine foveal glimpses with a third-order Boltzmann machine](https://papers.nips.cc/paper/4089-learning-to-combine-foveal-glimpses-with-a-third-order-boltzmann-machine)
+- [Action from Still Image Dataset and Inverse Optimal Control to Learn Task Specific Visual Scanpaths](http://papers.nips.cc/paper/5196-action-from-still-image-dataset-and-inverse-optimal-control-to-learn-task-specific-visual-scanpaths)
+- [Contextual Guidance of Eye Movements and Attention in Real-World Scenes: The Role of Global Features in Object Search](http://cvcl.mit.edu/Papers/TorralbaOlivaPsychRev06.pdf)
+- [On Learning Where To Look](http://www.cs.toronto.edu/~ranzato/publications/ranzato_arxiv14.pdf)
+- [The Dynamic Representation of Scenes](https://www.cs.ubc.ca/~rensink/publications/download/VisCog_00.02.pdf)
+- [Evolving a Roving Eye for Go](http://nn.cs.utexas.edu/downloads/papers/stanley.gecco04.pdf)
+- [Q-Learning of Sequential Attention for Visual Object Recognition from Informative Local Descriptors](https://pdfs.semanticscholar.org/e2b5/dca2c46232a232356ca9034e35bc5b559dad.pdf)
 - [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf) **[Read]**
 	- Attention model capable of extracting information from image/video by adaptively processing select areas at high resolution
 	- Translation invariance, computation can be controlled independently of image size
@@ -163,6 +179,11 @@ Warning: This place is a mess right now. Sorry. :(
 #### Book Chapters
 - [Approximate Dynamic Programming](http://web.mit.edu/dimitrib/www/dpchapter.pdf)
 	- Bertsekas (2011), for theoretical background
+
+#### Papers
+- [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://webdocs.cs.ualberta.ca/~sutton/papers/SMSM-NIPS99.pdf)
+- [Solving Deep Memory POMDPs with Recurrent Policy Gradients](http://people.idsia.ch/~foerster/2007/2/icann2007.pdf)
+- [Simple statistical gradient-following algorithms for connectionist reinforcement learning.](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf)
 
 ## Social Informatics
 - Courses:
