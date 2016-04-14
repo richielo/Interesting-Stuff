@@ -3,7 +3,6 @@
 [Back](https://github.com/EthanMacdonald/Interesting-Stuff)
 
 ## To Read
-
 #### Papers
 - [Effective Approaches to Attention-based Neural Machine Translation](http://arxiv.org/abs/1508.04025)
 - [Learning generative models with visual attention](http://arxiv.org/pdf/1502.03044v2.pdf)
@@ -30,11 +29,7 @@
 
 
 ## Currently Reading
-
 #### Papers
-
-## Done
-
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) **[TODO: Brush up on REINFORCE/Variational bayesian methods before continuing]**
 	- Two types of attention: "hard" and "soft"
 		- "Soft": deterministic, trainable with gradient descent
@@ -42,6 +37,7 @@
 	- Advantage: can interpret "what"/"where" the model is "paying attention" to
 	- Takes in feature vectors of lower level of convolutional neural net, outputs image caption
 
+## Done
 #### Papers
 - [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf) **[Done]**
 	- Attention model capable of extracting information from image/video by adaptively processing select areas at high resolution
