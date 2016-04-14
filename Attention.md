@@ -8,7 +8,6 @@
 - [Learning generative models with visual attention](http://arxiv.org/pdf/1502.03044v2.pdf)
 - [Attention-Based Convolutional Neural Network for Machine Comprehension](http://arxiv.org/abs/1602.04341)
 - [Multiple Object Recognition with Visual Attention](http://arxiv.org/abs/1412.7755)
-- [State-of-the-Art in Visual Attention Modeling](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6180177&tag=1)
 - [Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism](http://arxiv.org/abs/1601.01073)
 - [Searching for objects driven by context](https://papers.nips.cc/paper/4717-searching-for-objects-driven-by-context.pdf)
 - [Optimal Scanning for Faster Object Detection](http://www.cs.washington.edu/research/insects/CVPR2009/objdetrec/optimscan_objdetect.pdf)
@@ -30,6 +29,8 @@
 
 ## Currently Reading
 #### Papers
+- [State-of-the-Art in Visual Attention Modeling](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6180177&tag=1)
+	- Reviews nearly 65 models, comparing advantages and shortcomings according to 13 criteria from behavioral & computational science
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) **[TODO: Brush up on REINFORCE/Variational bayesian methods before continuing]**
 	- Two types of attention: "hard" and "soft"
 		- "Soft": deterministic, trainable with gradient descent
