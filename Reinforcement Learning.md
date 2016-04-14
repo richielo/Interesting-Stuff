@@ -2,7 +2,8 @@
 
 ## Navigation
 
-[Go Back](https://github.com/EthanMacdonald/Interesting-Stuff)
+- [Go Back](https://github.com/EthanMacdonald/Interesting-Stuff)
+
 See Also:
 - [Cognitive Science](https://github.com/EthanMacdonald/Interesting-Stuff/Cognitive Science.md)
 
