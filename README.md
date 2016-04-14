@@ -21,7 +21,7 @@ Warning: This place is a mess right now. Sorry. :(
 
 ## Attention
 
-#### Attention-based Neural Networks
+#### Papers
 - [Effective Approaches to Attention-based Neural Machine Translation](http://arxiv.org/abs/1508.04025)
 - [Learning generative models with visual attention](http://arxiv.org/pdf/1502.03044v2.pdf)
 - [Attention-Based Convolutional Neural Network for Machine Comprehension](http://arxiv.org/abs/1602.04341)
