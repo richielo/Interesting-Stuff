@@ -2,7 +2,7 @@
 
 [Back](https://github.com/EthanMacdonald/Interesting-Stuff)
 
-## Attention
+## To Read
 
 #### Papers
 - [Effective Approaches to Attention-based Neural Machine Translation](http://arxiv.org/abs/1508.04025)
@@ -27,12 +27,22 @@
 - [The Dynamic Representation of Scenes](https://www.cs.ubc.ca/~rensink/publications/download/VisCog_00.02.pdf)
 - [Evolving a Roving Eye for Go](http://nn.cs.utexas.edu/downloads/papers/stanley.gecco04.pdf)
 - [Q-Learning of Sequential Attention for Visual Object Recognition from Informative Local Descriptors](https://pdfs.semanticscholar.org/e2b5/dca2c46232a232356ca9034e35bc5b559dad.pdf)
+
+
+## Currently Reading
+
+#### Papers
+
+## Done
+
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) **[TODO: Brush up on REINFORCE/Variational bayesian methods before continuing]**
 	- Two types of attention: "hard" and "soft"
 		- "Soft": deterministic, trainable with gradient descent
 		- "Hard": stochastic, trainable with maximization of approximate variational lower bound or REINFORCE
 	- Advantage: can interpret "what"/"where" the model is "paying attention" to
 	- Takes in feature vectors of lower level of convolutional neural net, outputs image caption
+
+#### Papers
 - [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf) **[Done]**
 	- Attention model capable of extracting information from image/video by adaptively processing select areas at high resolution
 	- Translation invariance, computation can be controlled independently of image size
