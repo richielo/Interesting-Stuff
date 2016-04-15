@@ -31,12 +31,7 @@
 #### Papers
 - [State-of-the-Art in Visual Attention Modeling](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6180177&tag=1)
 	- Reviews nearly 65 models, comparing advantages and shortcomings according to 13 criteria from behavioral & computational science
-- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) **[TODO: Brush up on REINFORCE/Variational bayesian methods before continuing]**
-	- Two types of attention: "hard" and "soft"
-		- "Soft": deterministic, trainable with gradient descent
-		- "Hard": stochastic, trainable with maximization of approximate variational lower bound or REINFORCE
-	- Advantage: can interpret "what"/"where" the model is "paying attention" to
-	- Takes in feature vectors of lower level of convolutional neural net, outputs image caption
+
 
 ## Done
 #### Papers
@@ -48,3 +43,9 @@
 - [Testing Visual Attention in Dynamic Environments](http://arxiv.org/pdf/1510.08949.pdf) **[Done]**
 	- Attention model with a different structure (2 LSTMs: "observer" and "controller")
 	- Trained using stochastic variational inference with a learned proposal distribution
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) **[Done]**
+	- Two types of attention: "hard" and "soft"
+		- "Soft": deterministic, trainable with gradient descent
+		- "Hard": stochastic, trainable with maximization of approximate variational lower bound or REINFORCE
+	- Advantage: can interpret "what"/"where" the model is "paying attention" to
+	- Takes in feature vectors of lower level of convolutional neural net, outputs image caption
