@@ -2,8 +2,12 @@
 
 [Back](https://github.com/EthanMacdonald/Interesting-Stuff)
 
-## To Read
-#### Papers
+## GitHub Repositories
+
+- [Element-Research/rnn/examples/recurrent-visual-attention.lua](https://github.com/Element-Research/rnn/blob/master/examples/recurrent-visual-attention.lua)
+
+## Papers
+#### To Read
 - [Effective Approaches to Attention-based Neural Machine Translation](http://arxiv.org/abs/1508.04025)
 - [Learning generative models with visual attention](http://arxiv.org/pdf/1502.03044v2.pdf)
 - [Attention-Based Convolutional Neural Network for Machine Comprehension](http://arxiv.org/abs/1602.04341)
@@ -26,15 +30,13 @@
 - [Q-Learning of Sequential Attention for Visual Object Recognition from Informative Local Descriptors](https://pdfs.semanticscholar.org/e2b5/dca2c46232a232356ca9034e35bc5b559dad.pdf)
 
 
-## Currently Reading
-#### Papers
+#### Currently Reading
 - [State-of-the-Art in Visual Attention Modeling](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6180177&tag=1)
 	- Reviews nearly 65 models, comparing advantages and shortcomings according to 13 criteria from behavioral & computational science
 - [On Learning Where To Look](http://www.cs.toronto.edu/~ranzato/publications/ranzato_arxiv14.pdf)
 
 
-## Done
-#### Papers
+#### Done
 - [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
 	- Attention model capable of extracting information from image/video by adaptively processing select areas at high resolution
 	- Translation invariance, computation can be controlled independently of image size
