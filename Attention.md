@@ -21,7 +21,6 @@
 - [Learning to combine foveal glimpses with a third-order Boltzmann machine](https://papers.nips.cc/paper/4089-learning-to-combine-foveal-glimpses-with-a-third-order-boltzmann-machine)
 - [Action from Still Image Dataset and Inverse Optimal Control to Learn Task Specific Visual Scanpaths](http://papers.nips.cc/paper/5196-action-from-still-image-dataset-and-inverse-optimal-control-to-learn-task-specific-visual-scanpaths)
 - [Contextual Guidance of Eye Movements and Attention in Real-World Scenes: The Role of Global Features in Object Search](http://cvcl.mit.edu/Papers/TorralbaOlivaPsychRev06.pdf)
-- [On Learning Where To Look](http://www.cs.toronto.edu/~ranzato/publications/ranzato_arxiv14.pdf)
 - [The Dynamic Representation of Scenes](https://www.cs.ubc.ca/~rensink/publications/download/VisCog_00.02.pdf)
 - [Evolving a Roving Eye for Go](http://nn.cs.utexas.edu/downloads/papers/stanley.gecco04.pdf)
 - [Q-Learning of Sequential Attention for Visual Object Recognition from Informative Local Descriptors](https://pdfs.semanticscholar.org/e2b5/dca2c46232a232356ca9034e35bc5b559dad.pdf)
@@ -31,19 +30,20 @@
 #### Papers
 - [State-of-the-Art in Visual Attention Modeling](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6180177&tag=1)
 	- Reviews nearly 65 models, comparing advantages and shortcomings according to 13 criteria from behavioral & computational science
+- [On Learning Where To Look](http://www.cs.toronto.edu/~ranzato/publications/ranzato_arxiv14.pdf)
 
 
 ## Done
 #### Papers
-- [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf) **[Done]**
+- [Recurrent Models of Visual Attention](https://papers.nips.cc/paper/5542-recurrent-models-of-visual-attention.pdf)
 	- Attention model capable of extracting information from image/video by adaptively processing select areas at high resolution
 	- Translation invariance, computation can be controlled independently of image size
 	- Trained as a POMDP using REINFORCE
 	-  Outperforms a convolutional neural network baseline on cluttered images, and on a dynamic visual control problem, where it learns to track a simple object without an explicit training signal for doing so
-- [Testing Visual Attention in Dynamic Environments](http://arxiv.org/pdf/1510.08949.pdf) **[Done]**
+- [Testing Visual Attention in Dynamic Environments](http://arxiv.org/pdf/1510.08949.pdf)
 	- Attention model with a different structure (2 LSTMs: "observer" and "controller")
 	- Trained using stochastic variational inference with a learned proposal distribution
-- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf) **[Done]**
+- [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v2.pdf)
 	- Two types of attention: "hard" and "soft"
 		- "Soft": deterministic, trainable with gradient descent
 		- "Hard": stochastic, trainable with maximization of approximate variational lower bound or REINFORCE
