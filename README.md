@@ -16,7 +16,7 @@ This is a repository of my favorite things from around the internet. Enjoy! :)
 - [General Mathematics](#general-mathematics)
 - [Health Informatics](#health-informatics)
 - [Imbalanced Data](#imbalanced-data)
-- [Information Theory](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Information Theory.md)
+- [Information Theory](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Information%20Theory.md)
 - [Reinforcement Learning](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Reinforcement%20Learning.md)
 - [Social Informatics](#social-informatics)
 
