@@ -51,3 +51,6 @@
 		- "Hard": stochastic, trainable with maximization of approximate variational lower bound or REINFORCE
 	- Advantage: can interpret "what"/"where" the model is "paying attention" to
 	- Takes in feature vectors of lower level of convolutional neural net, outputs image caption
+
+## Tutorials
+- [Torch: Recurrent Model of Visual Attention](http://torch.ch/blog/2015/09/21/rmva.html)
