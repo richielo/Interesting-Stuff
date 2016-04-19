@@ -4,6 +4,8 @@
 #### Awesome Lists
 - [josephmisiti](https://github.com/josephmisiti/awesome-machine-learning)
 - [ujjwalkarn](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) tutorials
+- [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/wiki/index)
+	+ Not really an "awesome" list, but awesome enough to be close enough
 
 #### Courses
 - [Probabalistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708-14/index.html) **CMU** 
