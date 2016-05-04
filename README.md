@@ -5,6 +5,7 @@ This is a repository of my favorite things from around the internet. Enjoy! :)
 ## Table of Contents
 - [Attention](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Attention.md)
 - [Awesome Lists](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Awesome Lists.md)
+- [Bayesian Methods](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Bayesian%20Methods.md)
 - [Big Data](#big-data)
 - [Cognitive Science](#cognitive-science)
 - [Deep Learning](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Deep%20Learning.md)
