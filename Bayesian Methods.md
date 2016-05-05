@@ -1,5 +1,10 @@
 ## Bayesian Methods
 
+### Books
+
+##### Currently Reading
+- [Probabalistic Programming and Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
 ### Courses
 - [Radford Neal's Bayesian Methods for Machine Learning](http://www.cs.utoronto.ca/~radford/csc2541.S11/)
 
