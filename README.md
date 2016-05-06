@@ -4,7 +4,7 @@ This is a repository of my favorite things from around the internet. Enjoy! :)
 
 ## Table of Contents
 - [Attention](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Attention.md)
-- [Awesome Lists](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Awesome Lists.md)
+- [Awesome Lists](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Awesome%20Lists.md)
 - [Bayesian Methods](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Bayesian%20Methods.md)
 - [Big Data](#big-data)
 - [Cognitive Science](#cognitive-science)
@@ -18,6 +18,7 @@ This is a repository of my favorite things from around the internet. Enjoy! :)
 - [Health Informatics](#health-informatics)
 - [Imbalanced Data](#imbalanced-data)
 - [Information Theory](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Information%20Theory.md)
+- [Probability and Statistics](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Probability%20and%20Statistics.md)
 - [Reinforcement Learning](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Reinforcement%20Learning.md)
 - [Social Informatics](#social-informatics)
 
