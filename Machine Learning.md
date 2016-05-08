@@ -23,3 +23,6 @@
 	- [Labs and Assignments](http://cs109.github.io/2014/pages/homework.html)
 	- [2014 Lectures](http://cs109.github.io/2014/)
 	- [2013 Lectures](http://cm.dce.harvard.edu/2014/01/14328/publicationListing.shtml) *(slightly better)*
+
+#### Tutorials
+- [TensorFlow Tutorials](https://github.com/aymericdamien/TensorFlow-Examples)
