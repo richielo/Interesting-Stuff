@@ -13,5 +13,8 @@
 - [Talking Machines](http://www.thetalkingmachines.com/)
 - [O'Reilly Data Show](https://itunes.apple.com/us/podcast/oreilly-data-show-oreilly/id944929220?mt=2)
 
+### Lambda Architecture
+- [Lambda Architecture](http://lambda-architecture.net/)
+
 ### Reports
 - [Free Data Science and Big Data Reports (O'Reilly)](http://www.oreilly.com/data/free/archive.html)
