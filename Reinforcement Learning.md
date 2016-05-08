@@ -50,7 +50,7 @@ See Also:
 
 #### Currently Reading:
 - [Simple statistical gradient-following algorithms for connectionist reinforcement learning.](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf)
-- [Convergent Temporal-Differnce Learning with Arbitrary Smooth Function Approximation](https://www.ualberta.ca/~szepesva/papers/nonlin_gtdnips09-2.pdf)
+- [Convergent Temporal-Difference Learning with Arbitrary Smooth Function Approximation](https://www.ualberta.ca/~szepesva/papers/nonlin_gtdnips09-2.pdf)
 
 #### Done:
 - None yet.
