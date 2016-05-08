@@ -12,6 +12,8 @@ See Also:
 - [Book Chapters](#book-chapters)
 - [Courses](#courses)
 - [Papers](#papers)
+- [Tutorials](#tutorials)
+- [Tools](#tools)
 
 ## Bayesian brain hypothesis
 - [Frontiers in Human Neuroscience: Attention, uncertainty, and free-energy](http://www.fil.ion.ucl.ac.uk/~karl/Attention%20uncertainty%20and%20free-energy.pdf)
@@ -51,3 +53,10 @@ See Also:
 
 #### Done:
 - None yet.
+
+## Tutorials
+- [Deep Reinforcement Learning: A Tutorial (OpenAI Gym)](https://gym.openai.com/docs/rl)
+- [Richard Sutton's Introduction to Reinforcement Learning](http://research.microsoft.com/apps/video/?id=259577)
+
+## Tools
+- [OpenAI Gym](https://gym.openai.com/)
