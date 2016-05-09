@@ -20,6 +20,7 @@ This is a repository of my favorite things from around the internet. Enjoy! :)
 - [Imbalanced Data](#imbalanced-data)
 - [Information Theory](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Information%20Theory.md)
 - [Probability and Statistics](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Probability%20and%20Statistics.md)
+- [R](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/R.md)
 - [Reinforcement Learning](https://github.com/EthanMacdonald/Interesting-Stuff/blob/master/Reinforcement%20Learning.md)
 - [Social Informatics](#social-informatics)
 
