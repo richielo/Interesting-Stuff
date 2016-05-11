@@ -8,12 +8,15 @@ See Also:
 - [Cognitive Science](https://github.com/EthanMacdonald/Interesting-Stuff/Cognitive Science.md)
 
 ## Table of Contents
+- [Awesome Lists](#awesome-lists)
 - [Books](#books)
 - [Book Chapters](#book-chapters)
 - [Courses](#courses)
 - [Papers](#papers)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
+
+## Awesome Lists
 
 ## Bayesian brain hypothesis
 - [Frontiers in Human Neuroscience: Attention, uncertainty, and free-energy](http://www.fil.ion.ucl.ac.uk/~karl/Attention%20uncertainty%20and%20free-energy.pdf)
