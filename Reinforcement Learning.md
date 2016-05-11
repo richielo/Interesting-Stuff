@@ -17,6 +17,7 @@ See Also:
 - [Tools](#tools)
 
 ## Awesome Lists
+- [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 
 ## Bayesian brain hypothesis
 - [Frontiers in Human Neuroscience: Attention, uncertainty, and free-energy](http://www.fil.ion.ucl.ac.uk/~karl/Attention%20uncertainty%20and%20free-energy.pdf)
