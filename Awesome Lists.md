@@ -31,6 +31,7 @@
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
+- [Reinforcement Learning](https://github.com/aikorea/awesome-rl)
 
 ## General
 - [All](https://github.com/bradoyler/awesome-all)
