@@ -47,6 +47,7 @@
 ## Math
 - [Math](https://github.com/rossant/awesome-math)
 - [Theory](https://github.com/sindresorhus/awesome#theory)
+- [Learn Math](https://github.com/ystael/chicago-ug-math-bib)
 
 ## Programming
 - [Static Analysis](https://github.com/mre/awesome-static-analysis)
